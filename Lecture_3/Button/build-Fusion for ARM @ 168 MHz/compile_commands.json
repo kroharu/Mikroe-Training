@@ -1,7 +1,0 @@
-[
-{
-  "directory": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Button/build-Fusion for ARM @ 168 MHz",
-  "command": "C:\\NECTOStudio\\NECTOStudio\\compilers\\ARM\\mikroC\\mikroCARM.exe -pSTM32F407ZG -jcom -DL -NRL  -b\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Button/build-Fusion for ARM @ 168 MHz\" -fo168 -C -SSA -MF -O11111114 -DBG -UICD -SP\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Button/build-Fusion for ARM @ 168 MHz\" -SP\"C:/NECTOStudio/NECTOStudio/compilers/ARM/mikroC/core/def\" -SP\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Button\" \"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Button/.meproject/setup/Debug/STM32F407ZG.jcfg\"  -out CMakeFiles\\Button.dir\\main.emcl C:\\Users\\footb\\Documents\\MIKROE\\Week_1\\Lecture_3\\Button\\main.c \"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Button/.meproject/setup/Debug/lib/lib_core.a\"",
-  "file": "C:\\Users\\footb\\Documents\\MIKROE\\Week_1\\Lecture_3\\Button\\main.c"
-}
-]

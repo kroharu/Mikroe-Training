@@ -1,3 +1,0 @@
-C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/PIC_GPIO_example/build-EasyPIC PRO @ 64 MHz/CMakeFiles/PIC_GPIO_example.dir
-C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/PIC_GPIO_example/build-EasyPIC PRO @ 64 MHz/CMakeFiles/edit_cache.dir
-C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/PIC_GPIO_example/build-EasyPIC PRO @ 64 MHz/CMakeFiles/rebuild_cache.dir
