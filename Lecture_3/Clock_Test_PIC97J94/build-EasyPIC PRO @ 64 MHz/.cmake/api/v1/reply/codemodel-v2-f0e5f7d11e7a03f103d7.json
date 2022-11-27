@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Clock_Test_PIC97J94",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Clock_Test_PIC97J94::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Clock_Test_PIC97J94-Debug-f476a70443b400245a52.json",
+					"name" : "Clock_Test_PIC97J94",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94/build-EasyPIC PRO @ 64 MHz",
+		"source" : "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
