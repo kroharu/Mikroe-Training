@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/build-Fusion for PIC @ 64 MHz",
+  "command": "C:\\NECTOStudio\\NECTOStudio\\compilers\\PIC\\mikroC\\mikroCPIC1618.exe -pPIC18F97J94 -jcom -DL -NRL  -b\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/build-Fusion for PIC @ 64 MHz\" -fo64 -C -MF -O11111114 -DBG -UICD -SP\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/build-Fusion for PIC @ 64 MHz\" -SP\"C:/NECTOStudio/NECTOStudio/compilers/PIC/mikroC/core/def\" -SP\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example\" \"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/.meproject/setup/Debug/PIC18F97J94.jcfg\"  -out CMakeFiles\\STM32_GPIO_interrupt_example.dir\\main.mcl C:\\Users\\footb\\Documents\\MIKROE\\Week_1\\Lecture_4\\STM32_GPIO_interrupt_example\\main.c \"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/.meproject/setup/Debug/lib/lib_core.a\"",
+  "file": "C:\\Users\\footb\\Documents\\MIKROE\\Week_1\\Lecture_4\\STM32_GPIO_interrupt_example\\main.c"
+}
+]

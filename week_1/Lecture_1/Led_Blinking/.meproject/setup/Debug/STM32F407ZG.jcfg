@@ -1,0 +1,24 @@
+{
+    "back_door_key": "0",
+    "config_registers": [
+        {
+            "address": "$400FE060",
+            "value": "$1000081"
+        },
+        {
+            "address": "$40023804",
+            "value": "$9005410"
+        },
+        {
+            "address": "$40023808",
+            "value": "$609402"
+        },
+        {
+            "address": "$400FE070",
+            "value": "$3"
+        }
+    ],
+    "data_type_size": "0",
+    "mcu_name": "STM32F407ZG",
+    "stack_allocation": "0"
+}
