@@ -47,20 +47,20 @@ Arithmetical operators precedence table:
 | Category       | Operator                         | Associativity |
 |----------------|----------------------------------|---------------|
 | Postfix        | <code>() [] -> . ++ --</code>    | Left to right |
-| Unary          | + - ! ~ ++ -- (type)* & sizeof   | Right to left |
-| Multiplicative | * / %                            | Left to right |
-| Additive       | + -                              | Left to right |
-| Shift          | << >>                            | Left to right |
-| Relational     | < <= > >=                        | Left to right |
-| Equality       | == !=                            | Left to right |
-| Bitwise AND    | &                                | Left to right |
-| Bitwise XOR    | ^                                | Left to right |
-| Bitwise OR     | |                                | Left to right |
-| Logical AND    | &&                               | Left to right |
-| Logical OR     | ||                               | Left to right |
-| Conditional    | ?:                               | Left to right |
-| Assignment     | = += -= /= %= > >= < <= &= ^= |= | Right to left |
-| Comma          | ,                                | Left to right |
+| Unary          | <code>+ - ! ~ ++ -- (type)* & sizeof</code>   | Right to left |
+| Multiplicative | <code>* / %</code>                            | Left to right |
+| Additive       | <code>+ -</code>                              | Left to right |
+| Shift          | <code><< >></code>                            | Left to right |
+| Relational     | <code>< <= > >=</code>                        | Left to right |
+| Equality       | <code>== !=</code>                            | Left to right |
+| Bitwise AND    | <code>&</code>                                | Left to right |
+| Bitwise XOR    | <code>^</code>                                | Left to right |
+| Bitwise OR     | <code>|</code>                                | Left to right |
+| Logical AND    | <code>&&</code>                               | Left to right |
+| Logical OR     | <code>||</code>                               | Left to right |
+| Conditional    | <code>?:</code>                               | Left to right |
+| Assignment     | <code>= += -= *= /= %= > >= < <= &= ^= |=</code> | Right to left |
+| Comma          | <code>,</code>                                | Left to right |
 
 
 ## Lecture 3 - Clocks & Pins
