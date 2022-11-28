@@ -31,7 +31,7 @@ Keywords:
 
 ![keywords_memory](for_readme/keywords_memory.png)
 
-Arithmetical operators: 
+Arithmetical operators precedence table: 
 
 ![precedence_table](for_readme/precedence_table.png)
 
