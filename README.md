@@ -4,8 +4,8 @@ _This is an **educational training for the Mikroe company** Project_
 
 ## Lecture 1 - Intro
 
-- [ ] [LED-Blinking] - (https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_1/Led_Blinking)
-- [ ] [LED-Curtain] - (https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_1/Led_Curtain)
+- [ ] [LED-Blinking](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_1/Led_Blinking)
+- [ ] [LED-Curtain](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_1/Led_Curtain)
 
 A Barargraph_2 example code running:
 
@@ -14,9 +14,9 @@ A Barargraph_2 example code running:
 
 ## Lecture 2 - First steps in embedded C
 
-- [X] [Memmory allocation] - (https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_2/Malloc_Learn)
-- [X] [Keywords] - (https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_2/Keywords)
-- [X] [Statements] - (https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_2/Statements)
+- [X] [Memmory allocation](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_2/Malloc_Learn)
+- [X] [Keywords](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_2/Keywords)
+- [X] [Statements](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_2/Statements)
 
 RAM - random access memory 
 
@@ -65,9 +65,9 @@ Arithmetical operators precedence table:
 
 ## Lecture 3 - Clocks & Pins
 
-- [X] [Clock_Test] - (https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_3/Clock_Test_PIC97J94)
-- [X] [LED_Test] - (https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_3/LED_Test)
-- [ ] [Button_Test] - (https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_3/Button)
+- [X] [Clock_Test](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_3/Clock_Test_PIC97J94)
+- [X] [LED_Test](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_3/LED_Test)
+- [ ] [Button_Test](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_3/Button)
 
 Pins roadmap:
 
@@ -84,9 +84,9 @@ My LED_Run Test:
 
 ## Lecture 4 - MCU Basis
 
-- [ ] [UART Polling example] - (https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_4/Polling_example)
-- [ ] [PIC GPIO interrupt example] - (https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_4/PIC_GPIO_example)
-- [ ] [STM32 GPIO interrupt example] - (https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_4/STM32_GPIO_interrupt_example)
+- [ ] [UART Polling example](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_4/Polling_example)
+- [ ] [PIC GPIO interrupt example](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_4/PIC_GPIO_example)
+- [ ] [STM32 GPIO interrupt example](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_4/STM32_GPIO_interrupt_example)
 
 | Interrupt                                             | Polling                                               |
 |-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
