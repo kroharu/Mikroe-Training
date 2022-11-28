@@ -62,6 +62,7 @@ My LED_Run Test:
 - [ ] [STM32 GPIO interrupt example] - (https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_4/STM32_GPIO_interrupt_example)
 
 | Interrupt                                             | Polling                                               |
+|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | Device notices the CPU that it requires its attention | CPU steadly checks whether the device needs attention |
 | It's a hardware mechanism                             | It's a protocol                                       |
 | Device is serviced by interrupt handler               | Device is serviced by CPU                             |
