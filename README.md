@@ -46,7 +46,7 @@ Arithmetical operators precedence table:
 
 | Category       | Operator                                         | Associativity |
 |----------------|--------------------------------------------------|---------------|
-| Postfix        | '() [] -> . ++ --'                    | Left to right |
+| Postfix        | <code>() [] -> . ++ --</code>                    | Left to right |
 | Unary          | <code>+ - ! ~ ++ -- (type)* & sizeof</code>      | Right to left |
 | Multiplicative | <code>* / %</code>                               | Left to right |
 | Additive       | <code>+ -</code>                                 | Left to right |
@@ -55,11 +55,11 @@ Arithmetical operators precedence table:
 | Equality       | <code>== !=</code>                               | Left to right |
 | Bitwise AND    | <code>&</code>                                   | Left to right |
 | Bitwise XOR    | <code>^</code>                                   | Left to right |
-| Bitwise OR     | <code>|</code>                                   | Left to right |
+| Bitwise OR     | <code>┃</code>                                   | Left to right |
 | Logical AND    | <code>&&</code>                                  | Left to right |
-| Logical OR     | <code>||</code>                                  | Left to right |
+| Logical OR     | <code>┃┃</code>                                  | Left to right |
 | Conditional    | <code>?:</code>                                  | Left to right |
-| Assignment     | <code>= += -= *= /= %= > >= < <= &= ^= =</code>  | Right to left |
+| Assignment     | <code>= += -= *= /= %= > >= < <= &= ^= ┃=</code>  | Right to left |
 | Comma          | <code>,</code>                                   | Left to right |
 
 
