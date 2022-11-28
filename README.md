@@ -4,8 +4,13 @@ _This is an **educational training for the Mikroe company** Project_
 
 ## Lecture 1 - Intro
 
-- [ ] [LED-Blinking](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_1/Led_Blinking)
-- [ ] [LED-Curtain](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_1/Led_Curtain)
+- [X] [LED-Blinking](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_1/Led_Blinking)
+
+![LED_blinking](for_readme/LED_blink.gif)
+
+- [X] [LED-Curtain](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_1/Led_Curtain)
+
+![LED_blinking](for_readme/LED_curtain.gif)
 
 A Barargraph_2 example code running:
 
@@ -66,27 +71,29 @@ Arithmetical operators precedence table:
 ## Lecture 3 - Clocks & Pins
 
 - [X] [Clock_Test](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_3/Clock_Test_PIC97J94)
+
+Clock Test:
+
+![LED_Blink](for_readme/clock_blink.gif)
+
 - [X] [LED_Test](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_3/LED_Test)
+
+My LED_Run Test:
+
+![LED_Run](for_readme/clock_run.gif)
+
 - [ ] [Button_Test](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_3/Button)
 
 Pins roadmap:
 
 ![pins_roadmap](for_readme/pins_roadmap.png)
 
-LED_Blink Test:
-
-![LED_Blink](for_readme/clock_blink.gif)
-
-My LED_Run Test:
-
-![LED_Run](for_readme/clock_run.gif)
-
 
 ## Lecture 4 - MCU Basis
 
-- [ ] [UART Polling example](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_4/Polling_example)
-- [ ] [PIC GPIO interrupt example](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_4/PIC_GPIO_example)
-- [ ] [STM32 GPIO interrupt example](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_4/STM32_GPIO_interrupt_example)
+- [X] [UART Polling example](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_4/Polling_example)
+- [X] [PIC GPIO interrupt example](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_4/PIC_GPIO_example)
+- [X] [STM32 GPIO interrupt example](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_4/STM32_GPIO_interrupt_example)
 
 | Interrupt                                             | Polling                                               |
 |-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
