@@ -6,12 +6,18 @@ else()
     project(Button LANGUAGES C ASM)
 endif()
 
-set(PROJECT_TYPE "mikrosdk" CACHE STRING "" FORCE)
+set(PROJECT_TYPE "legacy" CACHE STRING "" FORCE)
 
 add_executable(Button main.c)
-############################ Button GENERATED CODE START ###########################
-############################ Button GENERATED CODE END ###########################
 
+############################ Button GENERATED CODE START ###########################
+find_package(MikroC.Core REQUIRED)
+target_link_libraries(Button PUBLIC MikroC.Core)
+find_package(MikroC.System REQUIRED)
+target_link_libraries(Button PUBLIC MikroC.System)
+find_package(MikroC.Button REQUIRED)
+target_link_libraries(Button PUBLIC MikroC.Button)
+############################ Button GENERATED CODE END ###########################
 if (${MIKROSDK_TYPE} STREQUAL "mikrosdk")
     find_package(MikroC.Core REQUIRED)
     target_link_libraries(Button

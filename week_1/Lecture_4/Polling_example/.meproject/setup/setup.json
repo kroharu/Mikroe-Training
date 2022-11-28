@@ -75,12 +75,12 @@
         "uid": "codegrip"
     },
     "sdk": {
-        "icon": "images/mikrosdk.png",
-        "legacy": 0,
-        "name": "mikroSDK",
+        "icon": "images/sdk/mikroc-arm-legacy.png",
+        "legacy": 1,
+        "name": "mikroC for ARM Legacy",
         "sdk_development_kit": 0,
-        "uid": "mikrosdk_v260",
-        "version": "2.6.0"
+        "uid": "mikroc.legacy.arm-6.2.0",
+        "version": "6.2.0"
     },
     "target": {
         "board": {
@@ -238,5 +238,5 @@
         "uid": "mikrocarm",
         "version": "1.2.0"
     },
-    "uid": "dfe1989c-83a0-4b14-b47e-96594147e8ed"
+    "uid": "07cc54fc-297d-4946-b075-322a461555db"
 }

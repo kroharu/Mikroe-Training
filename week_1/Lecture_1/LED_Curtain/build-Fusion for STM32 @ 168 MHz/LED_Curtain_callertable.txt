@@ -1,0 +1,5 @@
+main@_main
+	__FillZeros@___FillZeros
+	GPIO_Digital_Output@_GPIO_Digital_Output
+		GPIO_Config@_GPIO_Config
+			GPIO_Clk_Enable@_GPIO_Clk_Enable

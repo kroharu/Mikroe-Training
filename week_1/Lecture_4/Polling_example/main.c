@@ -37,7 +37,7 @@ void main(void)
      */
     USART6_CR1.B5 = 1;
     NVIC_IntEnable(87);
-    EnableInterupts();
+    EnableInterrupts();
     /* END of NOTE */
     
     while (1) {                     // Endless loop.

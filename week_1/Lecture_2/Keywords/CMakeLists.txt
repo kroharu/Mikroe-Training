@@ -6,7 +6,7 @@ else()
     project(Keywords LANGUAGES C ASM)
 endif()
 
-set(PROJECT_TYPE "mikrosdk" CACHE STRING "" FORCE)
+set(PROJECT_TYPE "legacy" CACHE STRING "" FORCE)
 
 add_executable(Keywords main.c)
 ############################ Keywords GENERATED CODE START ###########################

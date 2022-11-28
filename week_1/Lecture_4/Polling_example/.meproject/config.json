@@ -37,14 +37,17 @@
             "CMAKE_mikroC_COMPILER_WORKS": "1",
             "CORE_LIB": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/Polling_example/.meproject/setup/Debug/lib/lib_core.a",
             "CORE_NAME": "M4EF",
+            "FIND_PACKAGE_MESSAGE_DETAILS_MikroC.System": "[\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/Polling_example/.meproject/setup/Debug/cmake/../bin/STM/ST M4/__Lib_System_011/MikroC.System.a\"][v()]",
+            "FIND_PACKAGE_MESSAGE_DETAILS_MikroC.UART": "[\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/Polling_example/.meproject/setup/Debug/cmake/../bin/STM/ST M4/__Lib_UART_123_45_6/__Lib_UART_123_45_6.emcl\"][v()]",
             "JCFG_FILE": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/Polling_example/.meproject/setup/Debug/STM32F407ZG.jcfg",
+            "LEGACY_LIBRARIES": "\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/Polling_example/.meproject/setup/Debug/cmake/../bin/STM/ST M4/__Lib_UART_123_45_6/__Lib_UART_123_45_6.emcl\" \"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/Polling_example/.meproject/setup/Debug/cmake/../bin/STM/ST M4/__Lib_System_011/MikroC.System.a\" \"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/Polling_example/.meproject/setup/Debug/cmake/../bin/STM/ST M4/__Lib_System_011/MikroC.System.a\"",
             "MCU_NAME": "STM32F407ZG",
-            "MIKROSDK_TYPE": "mikrosdk",
+            "MIKROSDK_TYPE": "legacy",
             "MSDK_BUILD_TFT_MODULES": "FALSE",
             "MikroC.Core_DIR": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/Polling_example/.meproject/setup/Debug/lib/cmake/MikroC.Core",
             "NECTO_DESIGNER_GENERATOR_PATH": "C:/NECTOStudio/NECTOStudio/vtft_generator.exe",
             "OSC": "168",
-            "PROJECT_TYPE": "mikrosdk",
+            "PROJECT_TYPE": "legacy",
             "Polling_example_BINARY_DIR": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/Polling_example/build-Fusion for STM32 @ 168 MHz",
             "Polling_example_IS_TOP_LEVEL": "ON",
             "Polling_example_SOURCE_DIR": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/Polling_example",
@@ -124,12 +127,12 @@
         "uid": "codegrip"
     },
     "sdk": {
-        "icon": "images/mikrosdk.png",
-        "legacy": 0,
-        "name": "mikroSDK",
+        "icon": "images/sdk/mikroc-arm-legacy.png",
+        "legacy": 1,
+        "name": "mikroC for ARM Legacy",
         "sdk_development_kit": 0,
-        "uid": "mikrosdk_v260",
-        "version": "2.6.0"
+        "uid": "mikroc.legacy.arm-6.2.0",
+        "version": "6.2.0"
     },
     "target": {
         "board": {
@@ -287,5 +290,5 @@
         "uid": "mikrocarm",
         "version": "1.2.0"
     },
-    "uid": "dfe1989c-83a0-4b14-b47e-96594147e8ed"
+    "uid": "07cc54fc-297d-4946-b075-322a461555db"
 }

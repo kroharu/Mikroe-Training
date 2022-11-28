@@ -67,12 +67,12 @@
         "uid": "codegrip"
     },
     "sdk": {
-        "icon": "images/mikrosdk.png",
-        "legacy": 0,
-        "name": "mikroSDK",
+        "icon": "images/sdk/mikroc-pic-legacy.png",
+        "legacy": 1,
+        "name": "mikroC for PIC Legacy",
         "sdk_development_kit": 0,
-        "uid": "mikrosdk_v260",
-        "version": "2.6.0"
+        "uid": "mikroc.legacy.pic-7.6.0",
+        "version": "7.6.0"
     },
     "target": {
         "board": {
@@ -392,5 +392,5 @@
         "uid": "mikrocpic",
         "version": "1.1.1"
     },
-    "uid": "1793f8a0-3b51-4c17-b710-eac5117da115"
+    "uid": "711ade6c-96cc-4bd2-b9d4-64b45d8e3c46"
 }

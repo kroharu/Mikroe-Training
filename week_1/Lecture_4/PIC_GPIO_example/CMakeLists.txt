@@ -6,7 +6,7 @@ else()
     project(PIC_GPIO_example LANGUAGES C ASM)
 endif()
 
-set(PROJECT_TYPE "mikrosdk" CACHE STRING "" FORCE)
+set(PROJECT_TYPE "legacy" CACHE STRING "" FORCE)
 
 add_executable(PIC_GPIO_example main.c)
 ############################ PIC_GPIO_example GENERATED CODE START ###########################

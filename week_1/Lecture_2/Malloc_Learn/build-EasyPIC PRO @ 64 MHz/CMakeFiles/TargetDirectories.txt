@@ -1,0 +1,3 @@
+C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Malloc_Learn/build-EasyPIC PRO @ 64 MHz/CMakeFiles/edit_cache.dir
+C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Malloc_Learn/build-EasyPIC PRO @ 64 MHz/CMakeFiles/Malloc_Learn.dir
+C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Malloc_Learn/build-EasyPIC PRO @ 64 MHz/CMakeFiles/rebuild_cache.dir

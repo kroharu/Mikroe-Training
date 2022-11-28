@@ -1,0 +1,4 @@
+main@_main
+	__FillZeros@___FillZeros
+	ft_straight_LED@_ft_straight_LED
+	ft_reverse_LED@_ft_reverse_LED

@@ -1,0 +1,126 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build-Fusion for STM32 @ 168 MHz/CMakeFiles/3.21.3/CMakeSystem.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build-Fusion for STM32 @ 168 MHz/toolchain.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/NECTOStudio/NECTOStudio/CMake/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build-Fusion for STM32 @ 168 MHz/CMakeFiles/3.21.3/CMakeMikroCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/NECTOStudio/NECTOStudio/CMake/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/NECTOStudio/NECTOStudio/CMake/share/cmake-3.21/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/NECTOStudio/NECTOStudio/CMake/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/NECTOStudio/NECTOStudio/CMake/share/cmake-3.21/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/footb/AppData/Local/MIKROE/NECTOStudio2/cmake/CMakeMikroCInformation.cmake"
+		},
+		{
+			"path" : ".meproject/setup/Debug/lib/cmake/MikroC.Core/MikroC.CoreConfigVersion.cmake"
+		},
+		{
+			"path" : ".meproject/setup/Debug/lib/cmake/MikroC.Core/MikroC.CoreConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/NECTOStudio/NECTOStudio/CMake/share/cmake-3.21/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"path" : ".meproject/setup/Debug/lib/cmake/MikroC.Core/MikroC.CoreTargets.cmake"
+		},
+		{
+			"path" : ".meproject/setup/Debug/cmake/FindMikroC.System.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/NECTOStudio/NECTOStudio/CMake/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/NECTOStudio/NECTOStudio/CMake/share/cmake-3.21/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : ".meproject/setup/Debug/cmake/FindMikroC.Lcd_Constants.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/NECTOStudio/NECTOStudio/CMake/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/NECTOStudio/NECTOStudio/CMake/share/cmake-3.21/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : ".meproject/setup/Debug/cmake/FindMikroC.Lcd.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/NECTOStudio/NECTOStudio/CMake/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/NECTOStudio/NECTOStudio/CMake/share/cmake-3.21/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : ".meproject/setup/Debug/cmake/FindMikroC.System.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/NECTOStudio/NECTOStudio/CMake/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/NECTOStudio/NECTOStudio/CMake/share/cmake-3.21/Modules/FindPackageMessage.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_1/LCD_example/build-Fusion for STM32 @ 168 MHz",
+		"source" : "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_1/LCD_example"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

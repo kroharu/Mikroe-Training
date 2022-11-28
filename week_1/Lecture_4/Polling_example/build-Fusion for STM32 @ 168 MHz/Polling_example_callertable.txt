@@ -1,0 +1,31 @@
+main@_main
+	NVIC_IntEnable@_NVIC_IntEnable
+	EnableInterrupts@_EnableInterrupts
+	__CC2DW@___CC2DW
+	__FillZeros@___FillZeros
+	UART6_Init@_UART6_Init
+		UARTx_Init_Advanced@__Lib_UART_123_45_6_UARTx_Init_Advanced
+			RCC_GetClocksFrequency@_RCC_GetClocksFrequency
+				Get_Fosc_kHz@_Get_Fosc_kHz
+			GPIO_Alternate_Function_Enable@_GPIO_Alternate_Function_Enable
+				GPIO_Config_Pin_Alternate_Function@__Lib_GPIO_32F4xx_GPIO_Config_Pin_Alternate_Function
+					GPIO_Config@_GPIO_Config
+						GPIO_Clk_Enable@_GPIO_Clk_Enable
+	UART_Write_Text@_UART_Write_Text
+		UART_Write@_UART_Write
+			UART1_Write@_UART1_Write
+				UARTx_Write@__Lib_UART_123_45_6_UARTx_Write
+			UART2_Write@_UART2_Write
+				UARTx_Write@__Lib_UART_123_45_6_UARTx_Write
+			UART3_Write@_UART3_Write
+				UARTx_Write@__Lib_UART_123_45_6_UARTx_Write
+			UART4_Write@_UART4_Write
+				UARTx_Write@__Lib_UART_123_45_6_UARTx_Write
+			UART5_Write@_UART5_Write
+				UARTx_Write@__Lib_UART_123_45_6_UARTx_Write
+			UART6_Write@_UART6_Write
+				UARTx_Write@__Lib_UART_123_45_6_UARTx_Write
+UART_ISR@_UART_ISR
+	UART6_Read@_UART6_Read
+		UARTx_Read@__Lib_UART_123_45_6_UARTx_Read
+	UART6_Write@_UART6_Write

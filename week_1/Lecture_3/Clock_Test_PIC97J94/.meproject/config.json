@@ -1,9 +1,9 @@
 {
     "build_system": {
-        "build_output_path": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94/build-EasyPIC PRO @ 64 MHz",
+        "build_output_path": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94/build-EasyPIC PRO @ 100 MHz",
         "settings": {
             "CMAKE_BUILD_TYPE": "Debug",
-            "CMAKE_CACHEFILE_DIR": "c:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94/build-EasyPIC PRO @ 64 MHz",
+            "CMAKE_CACHEFILE_DIR": "c:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94/build-EasyPIC PRO @ 100 MHz",
             "CMAKE_CACHE_MAJOR_VERSION": "3",
             "CMAKE_CACHE_MINOR_VERSION": "21",
             "CMAKE_CACHE_PATCH_VERSION": "3",
@@ -32,23 +32,24 @@
             "CMAKE_ROOT": "C:/NECTOStudio/NECTOStudio/CMake/share/cmake-3.21",
             "CMAKE_SKIP_INSTALL_RPATH": "NO",
             "CMAKE_SKIP_RPATH": "NO",
-            "CMAKE_TOOLCHAIN_FILE": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94/build-EasyPIC PRO @ 64 MHz/toolchain.cmake",
+            "CMAKE_TOOLCHAIN_FILE": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94/build-EasyPIC PRO @ 100 MHz/toolchain.cmake",
             "CMAKE_VERBOSE_MAKEFILE": "FALSE",
             "CMAKE_mikroC_COMPILER_WORKS": "1",
             "CORE_LIB": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94/.meproject/setup/Debug/lib/lib_core.a",
             "CORE_NAME": "P18",
-            "Clock_Test_PIC97J94_BINARY_DIR": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94/build-EasyPIC PRO @ 64 MHz",
+            "Clock_Test_PIC97J94_BINARY_DIR": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94/build-EasyPIC PRO @ 100 MHz",
             "Clock_Test_PIC97J94_IS_TOP_LEVEL": "ON",
             "Clock_Test_PIC97J94_SOURCE_DIR": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94",
+            "FIND_PACKAGE_MESSAGE_DETAILS_MikroC.System": "[\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94/.meproject/setup/Debug/cmake/../bin/P18/__Lib_System_000/MikroC.System.a\"][v()]",
             "JCFG_FILE": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94/.meproject/setup/Debug/PIC18F97J94.jcfg",
+            "LEGACY_LIBRARIES": "\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94/.meproject/setup/Debug/cmake/../bin/P18/__Lib_System_000/MikroC.System.a\"",
             "MCU_NAME": "PIC18F97J94",
-            "MIKROSDK_TYPE": "mikrosdk",
+            "MIKROSDK_TYPE": "legacy",
             "MSDK_BUILD_TFT_MODULES": "FALSE",
-            "MikroC.Core_DIR": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94/.meproject/setup/Debug/lib/cmake/MikroC.Core",
             "NECTO_DESIGNER_GENERATOR_PATH": "C:/NECTOStudio/NECTOStudio/vtft_generator.exe",
-            "OSC": "64",
-            "PROJECT_TYPE": "mikrosdk",
-            "SEARCH_PATHS": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94/build-EasyPIC PRO @ 64 MHz;C:/NECTOStudio/NECTOStudio/compilers/PIC/mikroC/core/def;C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94",
+            "OSC": "100",
+            "PROJECT_TYPE": "legacy",
+            "SEARCH_PATHS": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94/build-EasyPIC PRO @ 100 MHz;C:/NECTOStudio/NECTOStudio/compilers/PIC/mikroC/core/def;C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94",
             "TOOLCHAIN_ID": "mikrocpic",
             "TOOLCHAIN_LANGUAGE": "MikroC",
             "_MSDK_BOARD_NAME_": "BOARD_EASYPIC_PRO_V8",
@@ -76,7 +77,7 @@
         "uid": "cmake"
     },
     "env_uid": "4553a452-2292-4c8a-8631-e2c899cd2b00",
-    "name": "EasyPIC PRO @ 64 MHz",
+    "name": "EasyPIC PRO @ 100 MHz",
     "prog": {
         "auto_start_local_gdb": true,
         "control_port": "1235",
@@ -116,12 +117,12 @@
         "uid": "codegrip"
     },
     "sdk": {
-        "icon": "images/mikrosdk.png",
-        "legacy": 0,
-        "name": "mikroSDK",
+        "icon": "images/sdk/mikroc-pic-legacy.png",
+        "legacy": 1,
+        "name": "mikroC for PIC Legacy",
         "sdk_development_kit": 0,
-        "uid": "mikrosdk_v260",
-        "version": "2.6.0"
+        "uid": "mikroc.legacy.pic-7.6.0",
+        "version": "7.6.0"
     },
     "target": {
         "board": {
@@ -135,7 +136,7 @@
         "mcu": {
             "def_path": "PIC/mikroC/core/def/PIC18F97J94.json",
             "settings": {
-                "clock": 64,
+                "clock": 100,
                 "config_registers": [
                     {
                         "fields": [
@@ -183,7 +184,7 @@
                         "fields": [
                             {
                                 "key": "FOSC",
-                                "value": "00000003"
+                                "value": "00000001"
                             },
                             {
                                 "key": "SOSCSEL",
@@ -204,7 +205,7 @@
                         "fields": [
                             {
                                 "key": "PLLDIV",
-                                "value": "0000000c"
+                                "value": "0000000e"
                             },
                             {
                                 "key": "RESERVED",
@@ -217,7 +218,7 @@
                         "fields": [
                             {
                                 "key": "POSCMD",
-                                "value": "00000002"
+                                "value": "00000003"
                             },
                             {
                                 "key": "FSCM",
@@ -441,5 +442,5 @@
         "uid": "mikrocpic",
         "version": "1.1.1"
     },
-    "uid": "1793f8a0-3b51-4c17-b710-eac5117da115"
+    "uid": "b0bac01c-5b92-447c-8731-bda0970a5f1e"
 }

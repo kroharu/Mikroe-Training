@@ -1,0 +1,17 @@
+main@_main
+	__CC2DW@___CC2DW
+	__FillZeros@___FillZeros
+	Lcd_Init@_Lcd_Init
+		GPIO_Config@_GPIO_Config
+			GPIO_Clk_Enable@_GPIO_Clk_Enable
+		Delay_5500us@_Delay_5500us
+		Delay_1us@_Delay_1us
+	Lcd_Cmd@_Lcd_Cmd
+		Delay_1us@_Delay_1us
+		Delay_5500us@_Delay_5500us
+		Delay_50us@_Delay_50us
+	Lcd_Out@_Lcd_Out
+		Lcd_Cmd@_Lcd_Cmd
+		Lcd_Chr_CP@_Lcd_Chr_CP
+			Lcd_Cmd@_Lcd_Cmd
+	Move_Delay@_Move_Delay

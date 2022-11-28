@@ -57,10 +57,12 @@ CORE_NAME:STRING=M4EF
 
 JCFG_FILE:STRING=C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/Polling_example/.meproject/setup/Debug/STM32F407ZG.jcfg
 
+LEGACY_LIBRARIES:STRING="C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/Polling_example/.meproject/setup/Debug/cmake/../bin/STM/ST M4/__Lib_UART_123_45_6/__Lib_UART_123_45_6.emcl" "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/Polling_example/.meproject/setup/Debug/cmake/../bin/STM/ST M4/__Lib_System_011/MikroC.System.a" "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/Polling_example/.meproject/setup/Debug/cmake/../bin/STM/ST M4/__Lib_System_011/MikroC.System.a"
+
 MCU_NAME:STRING=STM32F407ZG
 
 //No help, variable specified on the command line.
-MIKROSDK_TYPE:UNINITIALIZED=mikrosdk
+MIKROSDK_TYPE:UNINITIALIZED=legacy
 
 //No help, variable specified on the command line.
 MSDK_BUILD_TFT_MODULES:UNINITIALIZED=FALSE
@@ -73,7 +75,7 @@ NECTO_DESIGNER_GENERATOR_PATH:UNINITIALIZED=C:/NECTOStudio/NECTOStudio/vtft_gene
 
 OSC:STRING=168
 
-PROJECT_TYPE:STRING=mikrosdk
+PROJECT_TYPE:STRING=legacy
 
 //Value Computed by CMake
 Polling_example_BINARY_DIR:STATIC=C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/Polling_example/build-Fusion for STM32 @ 168 MHz
@@ -151,4 +153,8 @@ CMAKE_SKIP_RPATH-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
 CMAKE_mikroC_COMPILER_WORKS:INTERNAL=1
+//Details about finding MikroC.System
+FIND_PACKAGE_MESSAGE_DETAILS_MikroC.System:INTERNAL=["C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/Polling_example/.meproject/setup/Debug/cmake/../bin/STM/ST M4/__Lib_System_011/MikroC.System.a"][v()]
+//Details about finding MikroC.UART
+FIND_PACKAGE_MESSAGE_DETAILS_MikroC.UART:INTERNAL=["C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/Polling_example/.meproject/setup/Debug/cmake/../bin/STM/ST M4/__Lib_UART_123_45_6/__Lib_UART_123_45_6.emcl"][v()]
 

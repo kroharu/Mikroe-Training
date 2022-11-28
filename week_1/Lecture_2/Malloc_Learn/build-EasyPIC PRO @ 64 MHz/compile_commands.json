@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Malloc_Learn/build-EasyPIC PRO @ 64 MHz",
+  "command": "C:\\NECTOStudio\\NECTOStudio\\compilers\\PIC\\mikroC\\mikroCPIC1618.exe -pPIC18F97J94 -jcom -DL -NRL  -b\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Malloc_Learn/build-EasyPIC PRO @ 64 MHz\" -fo64 \"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Malloc_Learn/.meproject/setup/Debug/cmake/../bin/P18/__Lib_System_000/MikroC.System.a\" -C -MF -O11111114 -DBG -UICD -SP\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Malloc_Learn/build-EasyPIC PRO @ 64 MHz\" -SP\"C:/NECTOStudio/NECTOStudio/compilers/PIC/mikroC/core/def\" -SP\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Malloc_Learn\" \"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Malloc_Learn/.meproject/setup/Debug/PIC18F97J94.jcfg\"  -IPC:\\Users\\footb\\Documents\\MIKROE\\Week_1\\Lecture_2\\Malloc_Learn\\.meproject\\setup\\Debug\\cmake\\..\\bin\\P18\\__Lib_System_000 -IP -out CMakeFiles\\Malloc_Learn.dir\\main.mcl C:\\Users\\footb\\Documents\\MIKROE\\Week_1\\Lecture_2\\Malloc_Learn\\main.c \"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Malloc_Learn/.meproject/setup/Debug/lib/lib_core.a\"",
+  "file": "C:\\Users\\footb\\Documents\\MIKROE\\Week_1\\Lecture_2\\Malloc_Learn\\main.c"
+}
+]

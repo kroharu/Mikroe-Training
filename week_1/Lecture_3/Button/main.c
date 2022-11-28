@@ -29,11 +29,11 @@ void main (void)
     oldstate = 0;
     
     do {
-        if (Button(&GPIOA_IDR, 0, 1, 1))
+        if (Button(&GPIOA_IDR, 0, 1, 1))                    // Detect logical one on PA0 pin
             oldstate = 1;
-        if (oldstate && Button(&GPIOA_IDR, 0, 1, 0)) {
-            GPIOD_ODR = ~GPIOD_ODR;
+        if (oldstate && Button(&GPIOA_IDR, 0, 1, 0)) {      // Detect one-to-zero transition on PA0 pin
+            GPIOD_ODR = ~GPIOD_ODR;                         // Invert PORTD value
             oldstate = 0;
         }
-    } while (1);
+    } while (1);                                            // Endless loop
 }

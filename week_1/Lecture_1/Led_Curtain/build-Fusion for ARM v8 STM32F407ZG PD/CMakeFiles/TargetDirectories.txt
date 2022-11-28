@@ -1,3 +1,0 @@
-C:/Users/footb/Documents/MIKROE/Week_1/Lecture_1/Led_Curtain/build-Fusion for ARM v8 STM32F407ZG PD/CMakeFiles/Led_Curtain.dir
-C:/Users/footb/Documents/MIKROE/Week_1/Lecture_1/Led_Curtain/build-Fusion for ARM v8 STM32F407ZG PD/CMakeFiles/edit_cache.dir
-C:/Users/footb/Documents/MIKROE/Week_1/Lecture_1/Led_Curtain/build-Fusion for ARM v8 STM32F407ZG PD/CMakeFiles/rebuild_cache.dir

@@ -1,9 +1,9 @@
 {
     "build_system": {
-        "build_output_path": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/build-Fusion for PIC @ 64 MHz",
+        "build_output_path": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/build-Fusion for STM32 @ 168 MHz",
         "settings": {
             "CMAKE_BUILD_TYPE": "Debug",
-            "CMAKE_CACHEFILE_DIR": "c:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/build-Fusion for PIC @ 64 MHz",
+            "CMAKE_CACHEFILE_DIR": "c:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/build-Fusion for STM32 @ 168 MHz",
             "CMAKE_CACHE_MAJOR_VERSION": "3",
             "CMAKE_CACHE_MINOR_VERSION": "21",
             "CMAKE_CACHE_PATCH_VERSION": "3",
@@ -19,7 +19,7 @@
             "CMAKE_HOME_DIRECTORY": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example",
             "CMAKE_INSTALL_PREFIX": "C:/Program Files (x86)/STM32_GPIO_interrupt_example",
             "CMAKE_MAKE_PROGRAM": "C:/NECTOStudio/NECTOStudio/ninja.exe",
-            "CMAKE_MikroC_COMPILER": "C:/NECTOStudio/NECTOStudio/compilers/PIC/mikroC/mikroCPIC1618.exe",
+            "CMAKE_MikroC_COMPILER": "C:/NECTOStudio/NECTOStudio/compilers/ARM/mikroC/mikroCARM.exe",
             "CMAKE_MikroC_COMPILER_FORCED": "TRUE",
             "CMAKE_MikroC_COMPILER_ID": "mikroC",
             "CMAKE_MikroC_COMPILER_ID_RUN": "TRUE",
@@ -32,30 +32,31 @@
             "CMAKE_ROOT": "C:/NECTOStudio/NECTOStudio/CMake/share/cmake-3.21",
             "CMAKE_SKIP_INSTALL_RPATH": "NO",
             "CMAKE_SKIP_RPATH": "NO",
-            "CMAKE_TOOLCHAIN_FILE": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/build-Fusion for PIC @ 64 MHz/toolchain.cmake",
+            "CMAKE_TOOLCHAIN_FILE": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/build-Fusion for STM32 @ 168 MHz/toolchain.cmake",
             "CMAKE_VERBOSE_MAKEFILE": "FALSE",
             "CMAKE_mikroC_COMPILER_WORKS": "1",
             "CORE_LIB": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/.meproject/setup/Debug/lib/lib_core.a",
-            "CORE_NAME": "P18",
-            "JCFG_FILE": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/.meproject/setup/Debug/PIC18F97J94.jcfg",
-            "MCU_NAME": "PIC18F97J94",
-            "MIKROSDK_TYPE": "mikrosdk",
+            "CORE_NAME": "M4EF",
+            "FIND_PACKAGE_MESSAGE_DETAILS_MikroC.System": "[\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/.meproject/setup/Debug/cmake/../bin/STM/ST M4/__Lib_System_011/MikroC.System.a\"][v()]",
+            "JCFG_FILE": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/.meproject/setup/Debug/STM32F407ZG.jcfg",
+            "LEGACY_LIBRARIES": "\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/.meproject/setup/Debug/cmake/../bin/STM/ST M4/__Lib_System_011/MikroC.System.a\"",
+            "MCU_NAME": "STM32F407ZG",
+            "MIKROSDK_TYPE": "legacy",
             "MSDK_BUILD_TFT_MODULES": "FALSE",
-            "MikroC.Core_DIR": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/.meproject/setup/Debug/lib/cmake/MikroC.Core",
             "NECTO_DESIGNER_GENERATOR_PATH": "C:/NECTOStudio/NECTOStudio/vtft_generator.exe",
-            "OSC": "64",
-            "PROJECT_TYPE": "mikrosdk",
-            "SEARCH_PATHS": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/build-Fusion for PIC @ 64 MHz;C:/NECTOStudio/NECTOStudio/compilers/PIC/mikroC/core/def;C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example",
-            "STM32_GPIO_interrupt_example_BINARY_DIR": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/build-Fusion for PIC @ 64 MHz",
+            "OSC": "168",
+            "PROJECT_TYPE": "legacy",
+            "SEARCH_PATHS": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/build-Fusion for STM32 @ 168 MHz;C:/NECTOStudio/NECTOStudio/compilers/ARM/mikroC/core/def;C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example",
+            "STM32_GPIO_interrupt_example_BINARY_DIR": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example/build-Fusion for STM32 @ 168 MHz",
             "STM32_GPIO_interrupt_example_IS_TOP_LEVEL": "ON",
             "STM32_GPIO_interrupt_example_SOURCE_DIR": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_4/STM32_GPIO_interrupt_example",
-            "TOOLCHAIN_ID": "mikrocpic",
+            "TOOLCHAIN_ID": "mikrocarm",
             "TOOLCHAIN_LANGUAGE": "MikroC",
-            "_MSDK_BOARD_NAME_": "BOARD_FUSION_FOR_PIC_V8",
+            "_MSDK_BOARD_NAME_": "BOARD_FUSION_FOR_STM32_V8",
             "_MSDK_DIP_SOCKET_TYPE_": null,
             "_MSDK_HAL_LOW_LEVEL_TARGET_": "mikroe",
-            "_MSDK_MCU_CARD_NAME_": "MCU_CARD_FOR_PIC",
-            "_MSDK_PACKAGE_NAME_": "TQFP"
+            "_MSDK_MCU_CARD_NAME_": "MCU_CARD_FOR_STM32",
+            "_MSDK_PACKAGE_NAME_": "Tx"
         },
         "steps": {
             "build": [
@@ -76,7 +77,7 @@
         "uid": "cmake"
     },
     "env_uid": "4553a452-2292-4c8a-8631-e2c899cd2b00",
-    "name": "Fusion for PIC @ 64 MHz",
+    "name": "Fusion for STM32 @ 168 MHz",
     "prog": {
         "auto_start_local_gdb": true,
         "control_port": "1235",
@@ -85,8 +86,16 @@
         "port": "1234",
         "remote_addresses": [
         ],
-        "remote_password": "",
-        "selected_device": null,
+        "remote_password": "96DVO8ABH-WP7EKLU6U-GV4U9DLMJ",
+        "selected_device": {
+            "communicationType": "wifi",
+            "deviceName": "EasyPIC PRO v8 - 8",
+            "hwTokens": "01-01-08-02-01-04-03-01-01",
+            "ip": "77.46.162.163",
+            "linkPortDebug": 30259,
+            "serialNumber": "XX2104066102387",
+            "sslEnable": true
+        },
         "selected_options": {
             "Erase Type": {
                 "group": "Target Operation",
@@ -116,16 +125,16 @@
         "uid": "codegrip"
     },
     "sdk": {
-        "icon": "images/mikrosdk.png",
-        "legacy": 0,
-        "name": "mikroSDK",
+        "icon": "images/sdk/mikroc-arm-legacy.png",
+        "legacy": 1,
+        "name": "mikroC for ARM Legacy",
         "sdk_development_kit": 0,
-        "uid": "mikrosdk_v260",
-        "version": "2.6.0"
+        "uid": "mikroc.legacy.arm-6.2.0",
+        "version": "6.2.0"
     },
     "target": {
         "board": {
-            "uid": "FUSION_FOR_PIC_V8"
+            "uid": "FUSION_FOR_STM32_V8"
         },
         "display": {
             "height": 0,
@@ -133,313 +142,151 @@
             "width": 0
         },
         "mcu": {
-            "def_path": "PIC/mikroC/core/def/PIC18F97J94.json",
+            "def_path": "ARM/mikroC/core/def/STM32F407ZG.json",
             "settings": {
-                "clock": "64",
+                "clock": "168",
                 "config_registers": [
                     {
                         "fields": [
                             {
-                                "key": "STVREN",
-                                "value": "00000020"
+                                "key": "HSION",
+                                "value": "00000001"
                             },
                             {
-                                "key": "XINST",
+                                "key": "HSEON",
                                 "value": "00000000"
                             },
                             {
-                                "key": "DEBUG",
+                                "key": "HSEBYP",
+                                "value": "00000000"
+                            },
+                            {
+                                "key": "CSSON",
+                                "value": "00000000"
+                            },
+                            {
+                                "key": "PLLON",
+                                "value": "01000000"
+                            },
+                            {
+                                "key": "PLLI2SON",
+                                "value": "00000000"
+                            },
+                            {
+                                "key": "HSITRIM",
                                 "value": "00000080"
                             }
                         ],
-                        "key": "CONFIG1L"
+                        "key": "RCC_CR"
                     },
                     {
                         "fields": [
                             {
-                                "key": "BOREN",
-                                "value": "00000001"
-                            },
-                            {
-                                "key": "BORV",
-                                "value": "00000002"
-                            },
-                            {
-                                "key": "CP0",
-                                "value": "00000004"
-                            },
-                            {
-                                "key": "SIGN",
-                                "value": "00000000"
-                            },
-                            {
-                                "key": "RESERVED",
-                                "value": "000000f0"
-                            }
-                        ],
-                        "key": "CONFIG1H"
-                    },
-                    {
-                        "fields": [
-                            {
-                                "key": "FOSC",
-                                "value": "00000003"
-                            },
-                            {
-                                "key": "SOSCSEL",
-                                "value": "00000008"
-                            },
-                            {
-                                "key": "CLKOEN",
-                                "value": "00000020"
-                            },
-                            {
-                                "key": "IESO",
-                                "value": "00000080"
-                            }
-                        ],
-                        "key": "CONFIG2L"
-                    },
-                    {
-                        "fields": [
-                            {
-                                "key": "PLLDIV",
-                                "value": "0000000c"
-                            },
-                            {
-                                "key": "RESERVED",
-                                "value": "000000f0"
-                            }
-                        ],
-                        "key": "CONFIG2H"
-                    },
-                    {
-                        "fields": [
-                            {
-                                "key": "POSCMD",
-                                "value": "00000002"
-                            },
-                            {
-                                "key": "FSCM",
-                                "value": "00000020"
-                            }
-                        ],
-                        "key": "CONFIG3L"
-                    },
-                    {
-                        "fields": [
-                            {
-                                "key": "RESERVED",
-                                "value": "000000f0"
-                            }
-                        ],
-                        "key": "CONFIG3H"
-                    },
-                    {
-                        "fields": [
-                            {
-                                "key": "WPFP",
-                                "value": "000000ff"
-                            }
-                        ],
-                        "key": "CONFIG4L"
-                    },
-                    {
-                        "fields": [
-                            {
-                                "key": "WPDIS",
-                                "value": "00000001"
-                            },
-                            {
-                                "key": "WPEND",
-                                "value": "00000002"
-                            },
-                            {
-                                "key": "WPCFG",
-                                "value": "00000004"
-                            },
-                            {
-                                "key": "RESERVED",
-                                "value": "000000f0"
-                            }
-                        ],
-                        "key": "CONFIG4H"
-                    },
-                    {
-                        "fields": [
-                            {
-                                "key": "T5GSEL",
-                                "value": "00000001"
-                            },
-                            {
-                                "key": "CINASEL",
-                                "value": "00000002"
-                            },
-                            {
-                                "key": "EASHFT",
-                                "value": "00000008"
-                            },
-                            {
-                                "key": "ABW",
-                                "value": "00000030"
-                            },
-                            {
-                                "key": "BW",
-                                "value": "00000040"
-                            },
-                            {
-                                "key": "WAIT",
-                                "value": "00000080"
-                            }
-                        ],
-                        "key": "CONFIG5L"
-                    },
-                    {
-                        "fields": [
-                            {
-                                "key": "IOL1WAY",
-                                "value": "00000000"
-                            },
-                            {
-                                "key": "LS48MHZ",
-                                "value": "00000002"
-                            },
-                            {
-                                "key": "MSSPMSK2",
-                                "value": "00000004"
-                            },
-                            {
-                                "key": "MSSPMSK1",
-                                "value": "00000008"
-                            },
-                            {
-                                "key": "RESERVED",
-                                "value": "000000f0"
-                            }
-                        ],
-                        "key": "CONFIG5H"
-                    },
-                    {
-                        "fields": [
-                            {
-                                "key": "WDTWIN",
-                                "value": "00000003"
-                            },
-                            {
-                                "key": "WDTCLK",
-                                "value": "0000000c"
-                            },
-                            {
-                                "key": "WDTPS",
-                                "value": "000000f0"
-                            }
-                        ],
-                        "key": "CONFIG6L"
-                    },
-                    {
-                        "fields": [
-                            {
-                                "key": "WDTEN",
-                                "value": "00000000"
-                            },
-                            {
-                                "key": "WINDIS",
-                                "value": "00000004"
-                            },
-                            {
-                                "key": "WPSA",
-                                "value": "00000008"
-                            },
-                            {
-                                "key": "RESERVED",
-                                "value": "000000f0"
-                            }
-                        ],
-                        "key": "CONFIG6H"
-                    },
-                    {
-                        "fields": [
-                            {
-                                "key": "RETEN",
-                                "value": "00000001"
-                            },
-                            {
-                                "key": "VBTBOR",
-                                "value": "00000004"
-                            },
-                            {
-                                "key": "DSBOREN",
-                                "value": "00000008"
-                            },
-                            {
-                                "key": "DSBITEN",
+                                "key": "PLLM",
                                 "value": "00000010"
-                            }
-                        ],
-                        "key": "CONFIG7L"
-                    },
-                    {
-                        "fields": [
+                            },
                             {
-                                "key": "RESERVED",
-                                "value": "000000f0"
-                            }
-                        ],
-                        "key": "CONFIG7H"
-                    },
-                    {
-                        "fields": [
+                                "key": "PLLN",
+                                "value": "00005400"
+                            },
                             {
-                                "key": "DSWDTPS",
-                                "value": "000000f8"
-                            }
-                        ],
-                        "key": "CONFIG8L"
-                    },
-                    {
-                        "fields": [
-                            {
-                                "key": "DSWDTEN",
+                                "key": "PLLP",
                                 "value": "00000000"
                             },
                             {
-                                "key": "DSWDTOSC",
+                                "key": "PLLSRC",
+                                "value": "00000000"
+                            },
+                            {
+                                "key": "PLLQ",
+                                "value": "09000000"
+                            }
+                        ],
+                        "key": "RCC_PLLCFGR"
+                    },
+                    {
+                        "fields": [
+                            {
+                                "key": "SW",
                                 "value": "00000002"
                             },
                             {
-                                "key": "RESERVED",
-                                "value": "000000f0"
+                                "key": "HPRE",
+                                "value": "00000000"
+                            },
+                            {
+                                "key": "PPRE1",
+                                "value": "00001400"
+                            },
+                            {
+                                "key": "PPRE2",
+                                "value": "00008000"
+                            },
+                            {
+                                "key": "RTCPRE",
+                                "value": "00000000"
+                            },
+                            {
+                                "key": "MCO1",
+                                "value": "00600000"
+                            },
+                            {
+                                "key": "I2SSRC",
+                                "value": "00000000"
+                            },
+                            {
+                                "key": "MCO1PRE",
+                                "value": "00000000"
+                            },
+                            {
+                                "key": "MCO2PRE",
+                                "value": "00000000"
+                            },
+                            {
+                                "key": "MCO2",
+                                "value": "00000000"
                             }
                         ],
-                        "key": "CONFIG8H"
+                        "key": "RCC_CFGR"
+                    },
+                    {
+                        "fields": [
+                            {
+                                "key": "VRANGE",
+                                "value": "00000003"
+                            }
+                        ],
+                        "key": "SVRANGE"
                     }
                 ],
-                "core": "P18",
-                "delay_src_path": "delays/p18/__lib_delays.c",
-                "mcu": "PIC18F97J94",
+                "core": "M4EF",
+                "delay_src_path": "delays/m4ef/__lib_delays.c",
+                "mcu": "STM32F407ZG",
                 "name": null
             },
-            "uid": "MCU_CARD_FOR_PIC_PIC18F97J94"
+            "uid": "MCU_CARD_FOR_STM32_STM32F407ZG"
         }
     },
     "toolchain": {
-        "c_compiler": "mikroCPIC1618",
+        "c_compiler": "mikroCARM",
         "clangd_config": "",
         "cxx_compiler": "",
         "gdb": "",
         "mcu_support": "mcu.support.memcu",
-        "name": "mikroC AI for PIC",
+        "name": "mikroC AI for ARM",
         "options": {
             "ANSI_pack": false,
+            "ansi_data_type": "2",
             "case_sensitive": true,
             "dynamic_link_literals": false,
             "generate_additional_files": true,
+            "generate_bin": false,
             "long_hex_format": false,
             "ssa_optimization_level": "4"
         },
-        "path": "PIC/mikroC",
-        "uid": "mikrocpic",
-        "version": "1.1.1"
+        "path": "ARM/mikroC",
+        "uid": "mikrocarm",
+        "version": "1.2.0"
     },
-    "uid": "60b194c0-0ecc-4d47-84f5-da2ec48ce004"
+    "uid": "07cc54fc-297d-4946-b075-322a461555db"
 }

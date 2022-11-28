@@ -11,15 +11,15 @@
         },
         {
             "address": "$0001FFF2",
-            "value": "$ab"
+            "value": "$a9"
         },
         {
             "address": "$0001FFF3",
-            "value": "$fc"
+            "value": "$fe"
         },
         {
             "address": "$0001FFF4",
-            "value": "$22"
+            "value": "$23"
         },
         {
             "address": "$0001FFF5",

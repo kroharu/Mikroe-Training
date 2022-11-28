@@ -1,3 +1,0 @@
-C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94/build-EasyPIC PRO @ 64 MHz/CMakeFiles/edit_cache.dir
-C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94/build-EasyPIC PRO @ 64 MHz/CMakeFiles/Clock_Test_PIC97J94.dir
-C:/Users/footb/Documents/MIKROE/Week_1/Lecture_3/Clock_Test_PIC97J94/build-EasyPIC PRO @ 64 MHz/CMakeFiles/rebuild_cache.dir

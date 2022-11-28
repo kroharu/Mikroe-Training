@@ -6,7 +6,7 @@ else()
     project(Clock_Test_PIC97J94 LANGUAGES C ASM)
 endif()
 
-set(PROJECT_TYPE "mikrosdk" CACHE STRING "" FORCE)
+set(PROJECT_TYPE "legacy" CACHE STRING "" FORCE)
 
 add_executable(Clock_Test_PIC97J94 main.c)
 ############################ Clock_Test_PIC97J94 GENERATED CODE START ###########################

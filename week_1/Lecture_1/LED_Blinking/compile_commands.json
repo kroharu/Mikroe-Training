@@ -1,0 +1,7 @@
+[
+    {
+        "command": "C:\\NECTOStudio\\NECTOStudio\\compilers\\ARM\\mikroC\\mikroCARM.exe -pSTM32F407ZG -jcom -DL -NRL  -b\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_1/LED_Blinking/build-Fusion for STM32 @ 168 MHz\" -fo168 \"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_1/LED_Blinking/.meproject/setup/Debug/cmake/../bin/STM/ST M4/__Lib_System_011/MikroC.System.a\" -C -SSA -MF -O11111114 -DBG -UICD -SP\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_1/LED_Blinking/build-Fusion for STM32 @ 168 MHz\" -SP\"C:/NECTOStudio/NECTOStudio/compilers/ARM/mikroC/core/def\" -SP\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_1/LED_Blinking\" \"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_1/LED_Blinking/.meproject/setup/Debug/STM32F407ZG.jcfg\"  -IP\"C:\\Users\\footb\\Documents\\MIKROE\\Week_1\\Lecture_1\\LED_Blinking\\.meproject\\setup\\Debug\\cmake\\..\\bin\\STM\\ST M4\\__Lib_System_011\" -IP -out CMakeFiles\\LED_Blinking.dir\\main.emcl C:\\Users\\footb\\Documents\\MIKROE\\Week_1\\Lecture_1\\LED_Blinking\\main.c \"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_1/LED_Blinking/.meproject/setup/Debug/lib/lib_core.a\"",
+        "directory": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_1/LED_Blinking/build-Fusion for STM32 @ 168 MHz",
+        "file": "C:\\Users\\footb\\Documents\\MIKROE\\Week_1\\Lecture_1\\LED_Blinking\\main.c"
+    }
+]

@@ -6,13 +6,17 @@ else()
     project(Polling_example LANGUAGES C ASM)
 endif()
 
-set(PROJECT_TYPE "mikrosdk" CACHE STRING "" FORCE)
+set(PROJECT_TYPE "legacy" CACHE STRING "" FORCE)
 
 add_executable(Polling_example main.c)
 
 ############################ Polling_example GENERATED CODE START ###########################
 find_package(MikroC.Core REQUIRED)
 target_link_libraries(Polling_example PUBLIC MikroC.Core)
+find_package(MikroC.UART REQUIRED)
+target_link_libraries(Polling_example PUBLIC MikroC.UART)
+find_package(MikroC.System REQUIRED)
+target_link_libraries(Polling_example PUBLIC MikroC.System)
 ############################ Polling_example GENERATED CODE END ###########################
 if (${MIKROSDK_TYPE} STREQUAL "mikrosdk")
     find_package(MikroC.Core REQUIRED)

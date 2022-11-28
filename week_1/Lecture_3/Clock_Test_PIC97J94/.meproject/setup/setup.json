@@ -27,7 +27,7 @@
         },
         "uid": "cmake"
     },
-    "name": "EasyPIC PRO @ 64 MHz",
+    "name": "EasyPIC PRO @ 100 MHz",
     "prog": {
         "auto_start_local_gdb": true,
         "control_port": "1235",
@@ -67,12 +67,12 @@
         "uid": "codegrip"
     },
     "sdk": {
-        "icon": "images/mikrosdk.png",
-        "legacy": 0,
-        "name": "mikroSDK",
+        "icon": "images/sdk/mikroc-pic-legacy.png",
+        "legacy": 1,
+        "name": "mikroC for PIC Legacy",
         "sdk_development_kit": 0,
-        "uid": "mikrosdk_v260",
-        "version": "2.6.0"
+        "uid": "mikroc.legacy.pic-7.6.0",
+        "version": "7.6.0"
     },
     "target": {
         "board": {
@@ -86,7 +86,7 @@
         "mcu": {
             "def_path": "PIC/mikroC/core/def/PIC18F97J94.json",
             "settings": {
-                "clock": 64,
+                "clock": 100,
                 "config_registers": [
                     {
                         "fields": [
@@ -134,7 +134,7 @@
                         "fields": [
                             {
                                 "key": "FOSC",
-                                "value": "00000003"
+                                "value": "00000001"
                             },
                             {
                                 "key": "SOSCSEL",
@@ -155,7 +155,7 @@
                         "fields": [
                             {
                                 "key": "PLLDIV",
-                                "value": "0000000c"
+                                "value": "0000000e"
                             },
                             {
                                 "key": "RESERVED",
@@ -168,7 +168,7 @@
                         "fields": [
                             {
                                 "key": "POSCMD",
-                                "value": "00000002"
+                                "value": "00000003"
                             },
                             {
                                 "key": "FSCM",
@@ -392,5 +392,5 @@
         "uid": "mikrocpic",
         "version": "1.1.1"
     },
-    "uid": "1793f8a0-3b51-4c17-b710-eac5117da115"
+    "uid": "b0bac01c-5b92-447c-8731-bda0970a5f1e"
 }

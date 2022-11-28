@@ -3,7 +3,7 @@
         "settings": {
             "CORE_NAME": "P18",
             "MCU_NAME": "PIC18F97J94",
-            "_MSDK_BOARD_NAME_": "BOARD_FUSION_FOR_PIC_V8",
+            "_MSDK_BOARD_NAME_": "BOARD_EASYPIC_PRO_V8",
             "_MSDK_DIP_SOCKET_TYPE_": "",
             "_MSDK_HAL_LOW_LEVEL_TARGET_": "mikroe",
             "_MSDK_MCU_CARD_NAME_": "MCU_CARD_FOR_PIC",
@@ -27,7 +27,7 @@
         },
         "uid": "cmake"
     },
-    "name": "Fusion for PIC @ 64 MHz",
+    "name": "EasyPIC PRO @ 64 MHz",
     "prog": {
         "auto_start_local_gdb": true,
         "control_port": "1235",
@@ -67,16 +67,16 @@
         "uid": "codegrip"
     },
     "sdk": {
-        "icon": "images/mikrosdk.png",
-        "legacy": 0,
-        "name": "mikroSDK",
+        "icon": "images/sdk/mikroc-pic-legacy.png",
+        "legacy": 1,
+        "name": "mikroC for PIC Legacy",
         "sdk_development_kit": 0,
-        "uid": "mikrosdk_v260",
-        "version": "2.6.0"
+        "uid": "mikroc.legacy.pic-7.6.0",
+        "version": "7.6.0"
     },
     "target": {
         "board": {
-            "uid": "FUSION_FOR_PIC_V8"
+            "uid": "EASYPIC_PRO_V8"
         },
         "display": {
             "height": 0,
@@ -86,7 +86,7 @@
         "mcu": {
             "def_path": "PIC/mikroC/core/def/PIC18F97J94.json",
             "settings": {
-                "clock": "64",
+                "clock": 64,
                 "config_registers": [
                     {
                         "fields": [
@@ -392,5 +392,5 @@
         "uid": "mikrocpic",
         "version": "1.1.1"
     },
-    "uid": "60b194c0-0ecc-4d47-84f5-da2ec48ce004"
+    "uid": "711ade6c-96cc-4bd2-b9d4-64b45d8e3c46"
 }

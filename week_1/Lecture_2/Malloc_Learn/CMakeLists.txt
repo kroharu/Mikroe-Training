@@ -6,7 +6,7 @@ else()
     project(Malloc_Learn LANGUAGES C ASM)
 endif()
 
-set(PROJECT_TYPE "mikrosdk" CACHE STRING "" FORCE)
+set(PROJECT_TYPE "legacy" CACHE STRING "" FORCE)
 
 add_executable(Malloc_Learn main.c)
 ############################ Malloc_Learn GENERATED CODE START ###########################

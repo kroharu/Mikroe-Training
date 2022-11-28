@@ -6,7 +6,7 @@ else()
     project(STM32_GPIO_interrupt_example LANGUAGES C ASM)
 endif()
 
-set(PROJECT_TYPE "mikrosdk" CACHE STRING "" FORCE)
+set(PROJECT_TYPE "legacy" CACHE STRING "" FORCE)
 
 add_executable(STM32_GPIO_interrupt_example main.c)
 ############################ STM32_GPIO_interrupt_example GENERATED CODE START ###########################

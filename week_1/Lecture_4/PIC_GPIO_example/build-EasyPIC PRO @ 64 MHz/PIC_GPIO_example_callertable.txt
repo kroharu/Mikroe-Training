@@ -1,0 +1,3 @@
+main@_main
+	__FillZeros@___FillZeros
+EXT_ISR@_EXT_ISR

@@ -18,7 +18,7 @@ void main(void)
     RCC_APB2ENR.B14 = 1;        // Enable clock for alternate pin functions.
     SYSCFG_EXTICR1 = 1;         // Map external interrupt on PB0.
     
-    EXTI_PTSR = 0x00000000;     // Set interrupt on Rising edge (none).
+    EXTI_RTSR = 0x00000000;     // Set interrupt on Rising edge (none).
     EXTI_FTSR = 0x00000001;     // Set interrupt on Falling edge (PB0).
     
     EXTI_IMR |= 0x00000001;     // Set mask - input 0.

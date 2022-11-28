@@ -6,7 +6,7 @@ else()
     project(LED_Test LANGUAGES C ASM)
 endif()
 
-set(PROJECT_TYPE "mikrosdk" CACHE STRING "" FORCE)
+set(PROJECT_TYPE "legacy" CACHE STRING "" FORCE)
 
 add_executable(LED_Test main.c)
 ############################ LED_Test GENERATED CODE START ###########################

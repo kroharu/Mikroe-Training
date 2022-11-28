@@ -1,9 +1,9 @@
 {
     "build_system": {
-        "build_output_path": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Keywords/build-Fusion for PIC @ 64 MHz",
+        "build_output_path": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Keywords/build-EasyPIC PRO @ 64 MHz",
         "settings": {
             "CMAKE_BUILD_TYPE": "Debug",
-            "CMAKE_CACHEFILE_DIR": "c:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Keywords/build-Fusion for PIC @ 64 MHz",
+            "CMAKE_CACHEFILE_DIR": "c:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Keywords/build-EasyPIC PRO @ 64 MHz",
             "CMAKE_CACHE_MAJOR_VERSION": "3",
             "CMAKE_CACHE_MINOR_VERSION": "21",
             "CMAKE_CACHE_PATCH_VERSION": "3",
@@ -32,26 +32,27 @@
             "CMAKE_ROOT": "C:/NECTOStudio/NECTOStudio/CMake/share/cmake-3.21",
             "CMAKE_SKIP_INSTALL_RPATH": "NO",
             "CMAKE_SKIP_RPATH": "NO",
-            "CMAKE_TOOLCHAIN_FILE": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Keywords/build-Fusion for PIC @ 64 MHz/toolchain.cmake",
+            "CMAKE_TOOLCHAIN_FILE": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Keywords/build-EasyPIC PRO @ 64 MHz/toolchain.cmake",
             "CMAKE_VERBOSE_MAKEFILE": "FALSE",
             "CMAKE_mikroC_COMPILER_WORKS": "1",
             "CORE_LIB": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Keywords/.meproject/setup/Debug/lib/lib_core.a",
             "CORE_NAME": "P18",
+            "FIND_PACKAGE_MESSAGE_DETAILS_MikroC.System": "[\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Keywords/.meproject/setup/Debug/cmake/../bin/P18/__Lib_System_000/MikroC.System.a\"][v()]",
             "JCFG_FILE": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Keywords/.meproject/setup/Debug/PIC18F97J94.jcfg",
-            "Keywords_BINARY_DIR": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Keywords/build-Fusion for PIC @ 64 MHz",
+            "Keywords_BINARY_DIR": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Keywords/build-EasyPIC PRO @ 64 MHz",
             "Keywords_IS_TOP_LEVEL": "ON",
             "Keywords_SOURCE_DIR": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Keywords",
+            "LEGACY_LIBRARIES": "\"C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Keywords/.meproject/setup/Debug/cmake/../bin/P18/__Lib_System_000/MikroC.System.a\"",
             "MCU_NAME": "PIC18F97J94",
-            "MIKROSDK_TYPE": "mikrosdk",
+            "MIKROSDK_TYPE": "legacy",
             "MSDK_BUILD_TFT_MODULES": "FALSE",
-            "MikroC.Core_DIR": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Keywords/.meproject/setup/Debug/lib/cmake/MikroC.Core",
             "NECTO_DESIGNER_GENERATOR_PATH": "C:/NECTOStudio/NECTOStudio/vtft_generator.exe",
             "OSC": "64",
-            "PROJECT_TYPE": "mikrosdk",
-            "SEARCH_PATHS": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Keywords/build-Fusion for PIC @ 64 MHz;C:/NECTOStudio/NECTOStudio/compilers/PIC/mikroC/core/def;C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Keywords",
+            "PROJECT_TYPE": "legacy",
+            "SEARCH_PATHS": "C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Keywords/build-EasyPIC PRO @ 64 MHz;C:/NECTOStudio/NECTOStudio/compilers/PIC/mikroC/core/def;C:/Users/footb/Documents/MIKROE/Week_1/Lecture_2/Keywords",
             "TOOLCHAIN_ID": "mikrocpic",
             "TOOLCHAIN_LANGUAGE": "MikroC",
-            "_MSDK_BOARD_NAME_": "BOARD_FUSION_FOR_PIC_V8",
+            "_MSDK_BOARD_NAME_": "BOARD_EASYPIC_PRO_V8",
             "_MSDK_DIP_SOCKET_TYPE_": null,
             "_MSDK_HAL_LOW_LEVEL_TARGET_": "mikroe",
             "_MSDK_MCU_CARD_NAME_": "MCU_CARD_FOR_PIC",
@@ -76,29 +77,45 @@
         "uid": "cmake"
     },
     "env_uid": "4553a452-2292-4c8a-8631-e2c899cd2b00",
-    "name": "Fusion for PIC @ 64 MHz",
+    "name": "EasyPIC PRO @ 64 MHz",
     "prog": {
         "auto_start_local_gdb": true,
         "control_port": "1235",
         "ip_address": "127.0.0.1",
-        "mcu_name": "PIC18F97J94",
+        "mcu_name": "STM32F407ZG",
         "port": "1234",
         "remote_addresses": [
         ],
-        "remote_password": "",
-        "selected_device": null,
+        "remote_password": "4TOJZ78HP-VPEZ1UUOD-ER9G429RU",
+        "selected_device": {
+            "communicationType": "wifi",
+            "deviceName": "Fusion for STM32 v8 - 20",
+            "hwTokens": "01-01-01-02-01-03",
+            "ip": "77.46.162.163",
+            "linkPortDebug": 30430,
+            "serialNumber": "ME2020116790029",
+            "sslEnable": true
+        },
         "selected_options": {
+            "Connection": {
+                "group": "Target Connection",
+                "value": "Normal"
+            },
             "Erase Type": {
                 "group": "Target Operation",
-                "value": "Mass erase"
+                "value": "Sector erase"
             },
-            "Programming Type": {
+            "Halt on Connect": {
                 "group": "Target Connection",
-                "value": "Low voltage"
+                "value": "Disabled"
             },
             "Protocol": {
                 "group": "Target Connection",
-                "value": "ICSP"
+                "value": "SWD"
+            },
+            "Reset Type": {
+                "group": "Target Connection",
+                "value": "Hardware reset"
             },
             "Speed": {
                 "group": "Target Connection",
@@ -106,7 +123,7 @@
             },
             "Verify Type": {
                 "group": "Target Operation",
-                "value": "Readback"
+                "value": "CRC"
             },
             "Verify after Write": {
                 "group": "Target Operation",
@@ -116,16 +133,16 @@
         "uid": "codegrip"
     },
     "sdk": {
-        "icon": "images/mikrosdk.png",
-        "legacy": 0,
-        "name": "mikroSDK",
+        "icon": "images/sdk/mikroc-pic-legacy.png",
+        "legacy": 1,
+        "name": "mikroC for PIC Legacy",
         "sdk_development_kit": 0,
-        "uid": "mikrosdk_v260",
-        "version": "2.6.0"
+        "uid": "mikroc.legacy.pic-7.6.0",
+        "version": "7.6.0"
     },
     "target": {
         "board": {
-            "uid": "FUSION_FOR_PIC_V8"
+            "uid": "EASYPIC_PRO_V8"
         },
         "display": {
             "height": 0,
@@ -135,7 +152,7 @@
         "mcu": {
             "def_path": "PIC/mikroC/core/def/PIC18F97J94.json",
             "settings": {
-                "clock": "64",
+                "clock": 64,
                 "config_registers": [
                     {
                         "fields": [
@@ -441,5 +458,5 @@
         "uid": "mikrocpic",
         "version": "1.1.1"
     },
-    "uid": "60b194c0-0ecc-4d47-84f5-da2ec48ce004"
+    "uid": "711ade6c-96cc-4bd2-b9d4-64b45d8e3c46"
 }
