@@ -8,6 +8,7 @@ _This is an **educational training for the Mikroe company** Project_
 - [ ] [LED-Curtain] - (https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_1/Led_Curtain)
 
 A Barargraph_2 example code running:
+
 ![baragraph_demo](for_readme/baragraph_2.gif)
 
 
@@ -18,14 +19,20 @@ A Barargraph_2 example code running:
 - [X] [Statements] - (https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_2/Statements)
 
 RAM - random access memory 
+
 ROM - read only memory 
+
 ARM - advanced RISC machine 
+
 RISC - reduced instruction set computer 
 
+
 Keywords: 
+
 ![keywords_memory](for_readme/keywords_memory.png)
 
 Arithmetical operators: 
+
 ![precedence_table](for_readme/precedence_table.png)
 
 
@@ -36,12 +43,15 @@ Arithmetical operators:
 - [ ] [Button_Test] - (https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_3/Button)
 
 Pins roadmap:
+
 ![pins_roadmap](for_readme/pins_roadmap.png)
 
 LED_Blink Test:
+
 ![LED_Blink](for_readme/clock_blink.gif)
 
 My LED_Run Test:
+
 ![LED_Run](for_readme/clock_run.gif)
 
 
