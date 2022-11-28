@@ -18,14 +18,19 @@ A Barargraph_2 example code running:
 - [X] [Statements] - (https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_2/Statements)
 
 RAM - random access memory
+
 ROM - read only memory
+
 ARM - advanced RISC machine
+
 RISC - reduced instruction set computer
 
 Keywords:
+
 ![keywords_memory](for_readme/keywords_memory.png)
 
 Arithmetical operators:
+
 ![precedence_table](for_readme/precedence_table.png)
 
 
