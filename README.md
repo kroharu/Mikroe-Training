@@ -29,11 +29,38 @@ RISC - reduced instruction set computer
 
 Keywords: 
 
-![keywords_memory](for_readme/keywords_memory.png)
+| Data type    | Buts (Bytes) | Range                                |
+|--------------|--------------|--------------------------------------|
+| bit          | 1            | 0 or 1 (bit addressable part of RAM) |
+| signed int   | 16 (2)       | -32768 to +32767                     |
+| unsigned int | 16 (2)       | 0 to 65535                           |
+| signed char  | 8 (1)        | -128 to +127                         |
+| unsigned     | 8 (1)        | 0 to 255                             |
+| float        | 32 (4)       | ±1.175494E - 38 to ±3.402823E + 38   |
+| double       | 32 (4)       | ±1.175494E - 38 to ±3.402823E + 38   |
+| sbit         | 1            | 0 or 1 (bit addressable part of RAM) |
+| sfr          | 8 (1)        | RAM Addresses (80h to FFh)           |
+| sfr16        | 16 (2)       | 0 to 65535                           |
 
 Arithmetical operators precedence table: 
 
-![precedence_table](for_readme/precedence_table.png)
+| Category       | Operator                         | Associativity |
+|----------------|----------------------------------|---------------|
+| Postfix        | () [] -> . ++ --                 | Left to right |
+| Unary          | + - ! ~ ++ -- (type)* & sizeof   | Right to left |
+| Multiplicative | * / %                            | Left to right |
+| Additive       | + -                              | Left to right |
+| Shift          | << >>                            | Left to right |
+| Relational     | < <= > >=                        | Left to right |
+| Equality       | == !=                            | Left to right |
+| Bitwise AND    | &                                | Left to right |
+| Bitwise XOR    | ^                                | Left to right |
+| Bitwise OR     | |                                | Left to right |
+| Logical AND    | &&                               | Left to right |
+| Logical OR     | ||                               | Left to right |
+| Conditional    | ?:                               | Left to right |
+| Assignment     | = += -= /= %= > >= < <= &= ^= |= | Right to left |
+| Comma          | ,                                | Left to right |
 
 
 ## Lecture 3 - Clocks & Pins
