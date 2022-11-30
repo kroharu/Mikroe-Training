@@ -82,7 +82,7 @@ My LED_Run Test:
 
 ![LED_Run](for_readme/clock_run.gif)
 
-- [ ] [Button_Test](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_3/Button)
+- [X] [Button_Test](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_3/Button)
 
 Pins roadmap:
 
@@ -91,9 +91,9 @@ Pins roadmap:
 
 ## Lecture 4 - MCU Basis
 
-- [X] [UART Polling example](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_4/Polling_example)
-- [X] [PIC GPIO interrupt example](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_4/PIC_GPIO_example)
-- [X] [STM32 GPIO interrupt example](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_4/STM32_GPIO_interrupt_example)
+- [ ] [UART Polling example](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_4/Polling_example)
+- [ ] [PIC GPIO interrupt example](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_4/PIC_GPIO_example)
+- [ ] [STM32 GPIO interrupt example](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_4/STM32_GPIO_interrupt_example)
 
 | Interrupt                                             | Polling                                               |
 |-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
