@@ -12,6 +12,8 @@ _This is an **educational training for the Mikroe company** Project_
 
 ![LED_blinking](for_readme/LED_curtain.gif)
 
+- [ ] [LCD-example](https://github.com/kroharu/Mikroe-Training/tree/master/week_1/Lecture_1/LED_Curtain)
+
 A Barargraph_2 example code running:
 
 ![baragraph_demo](for_readme/baragraph_2.gif)
