@@ -1,0 +1,29 @@
+main@_main
+	__CC2DW@___CC2DW
+	__FillZeros@___FillZeros
+	I2C2_Init@_I2C2_Init
+	Lcd_Init@_Lcd_Init
+		Delay_5500us@_Delay_5500us
+		Delay_1us@_Delay_1us
+	Lcd_Cmd@_Lcd_Cmd
+		Delay_1us@_Delay_1us
+		Delay_5500us@_Delay_5500us
+		Delay_50us@_Delay_50us
+	EEPROM_24C02_WrSingle@_EEPROM_24C02_WrSingle
+		I2C2_Start@_I2C2_Start
+			I2C2_Is_Idle@_I2C2_Is_Idle
+			____DoIFC@_____DoIFC
+		I2C2_Wr@_I2C2_Wr
+			____DoIFC@_____DoIFC
+		I2C2_Stop@_I2C2_Stop
+	Lcd_Chr@_Lcd_Chr
+		Lcd_Cmd@_Lcd_Cmd ->[...] 
+	EEPROM_24C02_RdSingle@_EEPROM_24C02_RdSingle
+		I2C2_Start@_I2C2_Start ->[...] 
+		I2C2_Wr@_I2C2_Wr ->[...] 
+		I2C2_Repeated_Start@_I2C2_Repeated_Start
+			____DoIFC@_____DoIFC
+		I2C2_Rd@_I2C2_Rd
+			____DoIFC@_____DoIFC
+		I2C2_Is_Idle@_I2C2_Is_Idle
+		I2C2_Stop@_I2C2_Stop

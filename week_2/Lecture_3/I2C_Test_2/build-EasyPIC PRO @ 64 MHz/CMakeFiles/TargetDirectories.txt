@@ -1,0 +1,3 @@
+C:/Users/footb/Documents/MIKROE/Week_2/Lecture_3/I2C_Test_2/build-EasyPIC PRO @ 64 MHz/CMakeFiles/rebuild_cache.dir
+C:/Users/footb/Documents/MIKROE/Week_2/Lecture_3/I2C_Test_2/build-EasyPIC PRO @ 64 MHz/CMakeFiles/I2C_Test_2.dir
+C:/Users/footb/Documents/MIKROE/Week_2/Lecture_3/I2C_Test_2/build-EasyPIC PRO @ 64 MHz/CMakeFiles/edit_cache.dir

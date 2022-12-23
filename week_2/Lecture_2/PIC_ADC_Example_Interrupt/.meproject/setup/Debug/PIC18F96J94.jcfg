@@ -1,0 +1,72 @@
+{
+    "back_door_key": "0",
+    "config_registers": [
+        {
+            "address": "$0000FFF0",
+            "value": "$a0"
+        },
+        {
+            "address": "$0000FFF1",
+            "value": "$f7"
+        },
+        {
+            "address": "$0000FFF2",
+            "value": "$3"
+        },
+        {
+            "address": "$0000FFF3",
+            "value": "$fc"
+        },
+        {
+            "address": "$0000FFF4",
+            "value": "$22"
+        },
+        {
+            "address": "$0000FFF5",
+            "value": "$f0"
+        },
+        {
+            "address": "$0000FFF6",
+            "value": "$ff"
+        },
+        {
+            "address": "$0000FFF7",
+            "value": "$f7"
+        },
+        {
+            "address": "$0000FFF8",
+            "value": "$f3"
+        },
+        {
+            "address": "$0000FFF9",
+            "value": "$fe"
+        },
+        {
+            "address": "$0000FFFA",
+            "value": "$ff"
+        },
+        {
+            "address": "$0000FFFB",
+            "value": "$fc"
+        },
+        {
+            "address": "$0000FFFC",
+            "value": "$5"
+        },
+        {
+            "address": "$0000FFFD",
+            "value": "$f0"
+        },
+        {
+            "address": "$0000FFFE",
+            "value": "$f8"
+        },
+        {
+            "address": "$0000FFFF",
+            "value": "$f2"
+        }
+    ],
+    "data_type_size": "0",
+    "mcu_name": "PIC18F96J94",
+    "stack_allocation": "0"
+}

@@ -1,0 +1,3 @@
+main@_main
+	__FillZeros@___FillZeros
+ADC_ISR@_ADC_ISR

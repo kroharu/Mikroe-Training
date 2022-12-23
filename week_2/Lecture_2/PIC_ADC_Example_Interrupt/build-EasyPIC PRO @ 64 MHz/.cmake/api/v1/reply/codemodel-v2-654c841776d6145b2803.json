@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PIC_ADC_Example_Interrupt",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PIC_ADC_Example_Interrupt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PIC_ADC_Example_Interrupt-Debug-76f5c71fdf5634150033.json",
+					"name" : "PIC_ADC_Example_Interrupt",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/footb/Documents/MIKROE/Week_2/Lecture_2/PIC_ADC_Example_Interrupt/build-EasyPIC PRO @ 64 MHz",
+		"source" : "C:/Users/footb/Documents/MIKROE/Week_2/Lecture_2/PIC_ADC_Example_Interrupt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,34 @@
+main@_main
+	__CC2DW@___CC2DW
+	__FillZeros@___FillZeros
+	UART1_Init@_UART1_Init
+		UART1_MapDefaultPins@__Lib_UART_Remappable_J94_UART1_MapDefaultPins
+			PPS_Mapping@_PPS_Mapping
+				_PPS_Mapping@__Lib_PPS_Lite__PPS_Mapping
+					Unlock_IOLOCK@_Unlock_IOLOCK
+					Lock_IOLOCK@_Lock_IOLOCK
+		UART_Set_Active@_UART_Set_Active
+		UART1_Init_Static@__Lib_UART_Remappable_J94_UART1_Init_Static
+	UART1_Write_Text@_UART1_Write_Text
+		UART_Write_Text@_UART_Write_Text
+			UART_Write@_UART_Write
+				____DoIFC@_____DoIFC
+				UART1_Write@_UART1_Write
+					UART1_Write_Static@__Lib_UART_Remappable_J94_UART1_Write_Static
+				UART1_Remappable_Write@_UART1_Remappable_Write
+					UART1_Write_Static@__Lib_UART_Remappable_J94_UART1_Write_Static
+				UART2_Write@_UART2_Write
+					UART2_Write_Static@__Lib_UART_Remappable_J94_UART2_Write_Static
+				UART2_Remappable_Write@_UART2_Remappable_Write
+					UART2_Write_Static@__Lib_UART_Remappable_J94_UART2_Write_Static
+				UART3_Write@_UART3_Write
+					UART3_Write_Static@__Lib_UART_Remappable_J94_UART3_Write_Static
+				UART3_Remappable_Write@_UART3_Remappable_Write
+					UART3_Write_Static@__Lib_UART_Remappable_J94_UART3_Write_Static
+				UART4_Write@_UART4_Write
+					UART4_Write_Static@__Lib_UART_Remappable_J94_UART4_Write_Static
+				UART4_Remappable_Write@_UART4_Remappable_Write
+					UART4_Write_Static@__Lib_UART_Remappable_J94_UART4_Write_Static
+UART_ISR@_UART_ISR
+	UART1_Read@_UART1_Read
+		UART1_Read_Static@__Lib_UART_Remappable_J94_UART1_Read_Static

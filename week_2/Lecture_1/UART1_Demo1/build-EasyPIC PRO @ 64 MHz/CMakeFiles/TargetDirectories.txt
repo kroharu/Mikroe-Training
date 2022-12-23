@@ -1,0 +1,3 @@
+C:/Users/footb/Documents/MIKROE/Week_2/UART1_Demo/build-EasyPIC PRO @ 64 MHz/CMakeFiles/UART1_Demo.dir
+C:/Users/footb/Documents/MIKROE/Week_2/UART1_Demo/build-EasyPIC PRO @ 64 MHz/CMakeFiles/edit_cache.dir
+C:/Users/footb/Documents/MIKROE/Week_2/UART1_Demo/build-EasyPIC PRO @ 64 MHz/CMakeFiles/rebuild_cache.dir

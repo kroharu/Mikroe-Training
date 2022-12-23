@@ -1,0 +1,3 @@
+C:/Users/footb/Documents/MIKROE/Week_2/Lecture_2/ADC_Test_Example_1/build-EasyPIC PRO @ 64 MHz/CMakeFiles/ADC_Test_Example_1.dir
+C:/Users/footb/Documents/MIKROE/Week_2/Lecture_2/ADC_Test_Example_1/build-EasyPIC PRO @ 64 MHz/CMakeFiles/edit_cache.dir
+C:/Users/footb/Documents/MIKROE/Week_2/Lecture_2/ADC_Test_Example_1/build-EasyPIC PRO @ 64 MHz/CMakeFiles/rebuild_cache.dir
